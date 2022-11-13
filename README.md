@@ -1,4 +1,4 @@
-* Ozon scraping (test task)
+# Ozon scraping (test task)
 
 В проекте используется Pandas и Selenium (обошелся без Scrapy)
 
